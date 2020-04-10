@@ -1,0 +1,211 @@
+﻿body {
+    background-image: url(../PIC/pic1.png); 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    margin: 0;
+}
+
+/*CREATE.ASPX*/
+header {
+    background-color: #065752;
+    width: 100%;
+    height: 50px;
+    margin-top: -17px;
+}
+
+a:hover {
+    background-color: #48E2D9;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    border-right: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 13px;
+    padding-left: 17px;
+    padding-right: 17px;
+}
+
+li {
+    display: inline;
+    font-size: 24px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /*
+    padding-left: 25px;
+    padding-right: 25px;
+        */
+    margin-right: -5px;
+}
+
+ul {
+    width: 500px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-left: -42px;
+}
+
+.lblWriteInfos {
+    font-size: 24px;
+    text-align: center;
+}
+
+.lblName {
+    display: block;
+    margin-top: 10px;
+}
+
+.lblRepair{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.lblExchange {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.Button4 {
+    margin-left: 150px;
+}
+
+.create {
+    margin-left: 500px;
+    margin-top: 50px;
+    border: 2px solid #065752;
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
+
+.rbRepaired {
+    margin-left: 20px;
+}
+
+.rbExchanged {
+    margin-left: 20px;
+}
+
+.auto-style3 {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.auto-style4 {
+    margin-top: 15px;
+    margin-bottom: 12px;
+}
+
+.auto-style5 {
+    margin-top: 12px;
+    margin-bottom: 19px;
+}
+
+.auto-style6 {
+    margin-top: 14px;
+    margin-bottom: 11px;
+}
+
+.auto-style7 {
+    margin-top: 12px;
+    margin-bottom: 11px;
+}
+
+.auto-style8 {
+    margin-top: 12px;
+    margin-bottom: 13px;
+}
+
+.auto-style9 {
+    margin-top: 12px;
+    margin-bottom: 4px;
+}
+
+.auto-style11 {
+    margin-left: 100px;
+    margin-top: 29px;
+}   
+
+/*SEARCHBY,ASPX*/
+
+
+.lblSearchByServiceType{
+    margin-right: 20px;
+}
+    
+
+.lblSearchByClient {
+    margin-left: 40px;
+    margin-right: 10px;
+}
+
+.lblRepairedExchangedPart {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.txtSearchByClient {
+    margin-right: 10px;
+}
+
+.btnSearchByClient {
+    margin-right: 40px;
+}
+
+.RepairedExchangedList {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.rbExchanged {
+    margin-left: 10px;
+}
+
+.SearchBy {
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.ServicesTable {
+    margin-left: 20px;
+    margin-top: 30px;
+}
+
+.ServicesTableCreate {
+    margin-left: 13%;
+    margin-bottom: 10%;
+}
+
+
+/*Parts.ASPX*/
+
+.lblServiceID {
+    margin-right: 20px;
+}
+
+.content {
+    margin-left: 30px;
+    margin-top: 40px;
+}
+
+.btnShowParts {
+    margin-left: 20px;
+}
+
+.PartsTable {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.serviceTypesList {
+    margin-left: 40%;
+    margin-top: 40px;
+}
+
+
+
+
+
+
